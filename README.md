@@ -10,14 +10,16 @@ Email: [sobolievakaterynaw@gmail.com](mailto:sobolievakaterynaw@gmail.com)
 An SQL Analysis of Restaurant Reservation System. 
 This project aims to showcase skills in data visualization, writing, and database analysis. You will use SQL to explore restaurant reservation data and and respond to some questions.
 
-[Data Analysis Questions & Answers](Questions_and_Answers.sql) 
+[Questions for database queries](data_analysis_questions.pdf) 
+
+[Data Analysis Questions & Answers](questions_answers.sql)
 
 
 ## Tools & Schema of Database
 
-🐬MySQL 
+-MySQL🐬
 
-🦫DBeaver
+-DBeaver 🦫
 
 # Schema of Restaurant Reservation System
 
