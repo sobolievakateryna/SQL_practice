@@ -12,7 +12,7 @@ This project aims to showcase skills in data visualization, writing, and databas
 
 [Questions for database queries](data_analysis_questions.pdf) 
 
-[Data Analysis Questions & Answers](questions_answers.sql)
+[Data Analysis Questions & Answers](query.sql)
 
 
 ## Tools & Schema of Database
