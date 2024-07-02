@@ -8,7 +8,7 @@ Email: [sobolievakaterynaw@gmail.com](mailto:sobolievakaterynaw@gmail.com)
 ## Introduction
 
 An SQL Analysis of Restaurant Reservation System. 
-This project aims to showcase skills in data visualization, writing, and database analysis. You will use SQL to explore restaurant reservation data and and respond to some questions.
+This project aims to show skills in data visualization, writing, and database analysis. You will use SQL to explore restaurant reservation data and and respond to some questions.
 
 [Questions for database queries](data_analysis_questions.pdf) 
 
